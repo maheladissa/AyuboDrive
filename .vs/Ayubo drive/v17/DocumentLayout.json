@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (2)\\Ayubo drive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|d:\\new folder (2)\\ayubo drive\\ayubo drive\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|solutionrelative:ayubo drive\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|d:\\new folder (2)\\ayubo drive\\ayubo drive\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|solutionrelative:ayubo drive\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|d:\\new folder (2)\\ayubo drive\\ayubo drive\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|solutionrelative:ayubo drive\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|d:\\new folder (2)\\ayubo drive\\ayubo drive\\longtour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|solutionrelative:ayubo drive\\longtour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|d:\\new folder (2)\\ayubo drive\\ayubo drive\\daytour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|solutionrelative:ayubo drive\\daytour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|d:\\new folder (2)\\ayubo drive\\ayubo drive\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFC9771D-D6E7-4848-AB80-EC03D5B542AA}|Ayubo drive\\Ayubo drive.csproj|solutionrelative:ayubo drive\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Package.cs",
+              "RelativeDocumentMoniker": "Ayubo drive\\Package.cs",
+              "ToolTip": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Package.cs",
+              "RelativeToolTip": "Ayubo drive\\Package.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAASwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:48.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Package.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Package.cs",
+              "RelativeDocumentMoniker": "Ayubo drive\\Package.cs",
+              "ToolTip": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Package.cs [Design]",
+              "RelativeToolTip": "Ayubo drive\\Package.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:30.373Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Main.cs",
+              "RelativeDocumentMoniker": "Ayubo drive\\Main.cs",
+              "ToolTip": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Main.cs [Design]",
+              "RelativeToolTip": "Ayubo drive\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:29.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Longtour.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Longtour.cs",
+              "RelativeDocumentMoniker": "Ayubo drive\\Longtour.cs",
+              "ToolTip": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Longtour.cs [Design]",
+              "RelativeToolTip": "Ayubo drive\\Longtour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:27.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Daytour.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Daytour.cs",
+              "RelativeDocumentMoniker": "Ayubo drive\\Daytour.cs",
+              "ToolTip": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Daytour.cs [Design]",
+              "RelativeToolTip": "Ayubo drive\\Daytour.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:25.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Customer.cs",
+              "RelativeDocumentMoniker": "Ayubo drive\\Customer.cs",
+              "ToolTip": "D:\\New folder (2)\\Ayubo drive\\Ayubo drive\\Customer.cs [Design]",
+              "RelativeToolTip": "Ayubo drive\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:32:23.794Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
